@@ -1,0 +1,10 @@
+{
+  "workbench.colorCustomizations": {
+    "editor.lineHighlightBackground": "#0022ff00",
+    "editor.lineHighlightBorder": "#9fcfd100",
+    "activityBar.background": "#092F52",
+    "titleBar.activeBackground": "#0C4172",
+    "titleBar.activeForeground": "#F9FCFE"
+  },
+  "cSpell.words": ["clsx"]
+}
